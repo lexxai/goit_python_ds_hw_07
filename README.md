@@ -22,3 +22,9 @@
 
 
 Вдалої роботи!
+
+
+# Результати
+
+- [goit_python_ds_hw_07.ipynb](goit_python_ds_hw_07.ipynb)
+- [Colab goit_python_ds_hw_07.ipynb](https://colab.research.google.com/drive/16d9XjLMiamutwolBhrWSo5ZDOwubPk4W?usp=sharing)
