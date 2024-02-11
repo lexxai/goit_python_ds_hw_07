@@ -31,3 +31,4 @@
 
 - [goit_python_ds_hw_07.ipynb](goit_python_ds_hw_07.ipynb)
 - [Colab goit_python_ds_hw_07.ipynb](https://colab.research.google.com/drive/16d9XjLMiamutwolBhrWSo5ZDOwubPk4W?usp=sharing)
+- [Colab goit_python_ds_hw_07_analize_data.ipynb](https://colab.research.google.com/drive/1c-8F8DoTe_UnCpmZR1Ea73Jq6bMUhHCm?usp=sharing)
