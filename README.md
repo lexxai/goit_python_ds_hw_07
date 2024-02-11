@@ -25,7 +25,7 @@
 
 
 # Результати
-
+![algo_select_accuracy](algo_select_accuracy.png)
 ![algo_select](algo_select.png)
 ![predict_table](predict_table.png)
 ![predict_table_name](predict_table_name.png)
