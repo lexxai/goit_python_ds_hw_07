@@ -36,7 +36,7 @@
 - [goit_python_ds_hw_07.ipynb](goit_python_ds_hw_07.ipynb)
 - [Colab (goit_python_ds_hw_07.ipynb)](https://colab.research.google.com/drive/16d9XjLMiamutwolBhrWSo5ZDOwubPk4W?usp=sharing)
 
-Швидші розрахунки у 3.28 рази при використанні *load_builtin* у порівнянні з "ratings.csv"
+Швидші розрахунки у 3.28 рази при використанні *load_builtin* у порівнянні з "ratings.csv" для SVD++
 ![fit_time_built](fit_time_built.png)
 ![algo_select_built](algo_select_built.png)
 
