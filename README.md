@@ -32,9 +32,13 @@
 ![predict_table](predict_table.png)
 ![predict_table_name](predict_table_name.png)
 
-
+ Використання *load_from_df* та "ratings.csv" з ["ml-latest-small.zip"](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip)
 - [goit_python_ds_hw_07.ipynb](goit_python_ds_hw_07.ipynb)
-- [Colab goit_python_ds_hw_07.ipynb](https://colab.research.google.com/drive/16d9XjLMiamutwolBhrWSo5ZDOwubPk4W?usp=sharing)
+- [Colab (goit_python_ds_hw_07.ipynb)](https://colab.research.google.com/drive/16d9XjLMiamutwolBhrWSo5ZDOwubPk4W?usp=sharing)
+
+Швидші розрахунки у 3.28 рази при використанні *load_builtin* у порівнянні з "ratings.csv"
+- [goit_python_ds_hw_07_load_builtin.ipynb](goit_python_ds_hw_07_load_builtin.ipynb)
+- [Colab (goit_python_ds_hw_07_load_builtin.ipynb)](https://colab.research.google.com/drive/1th6gp6ob24eAtASWa_9NpaAfJ6bPaZy-?usp=sharing)
 
 ## Частина 2 (бонус)
  - [goit_python_ds_hw_07_part_2.ipynb](goit_python_ds_hw_07_part_2.ipynb)
