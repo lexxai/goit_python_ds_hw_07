@@ -47,5 +47,6 @@
  - [goit_python_ds_hw_07_part_2.ipynb](goit_python_ds_hw_07_part_2.ipynb)
  - [Colab goit_python_ds_hw_07_part_2.ipynb](https://colab.research.google.com/drive/1myC3JIWZd0keXvuGB6WA3h2Njxtf4LYi?usp=sharing)
 
+![part2_learning_curve](part2_learning_curve.png)
 ![part2_pered](part2_pered.png)
 
